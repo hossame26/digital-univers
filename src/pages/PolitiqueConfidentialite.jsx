@@ -30,7 +30,7 @@ export default function PolitiqueConfidentialite() {
           <section className="mb-10">
             <h2 className="text-2xl font-bold mb-4">1. Introduction</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-              Chez Digital Univers, nous accordons une grande importance à la protection de vos données personnelles. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations conformément au Règlement Général sur la Protection des Données (RGPD).
+              Chez Digital Univers LLC, nous accordons une grande importance à la protection de vos données personnelles. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations, en conformité avec les lois applicables en matière de protection des données.
             </p>
           </section>
 
@@ -83,7 +83,7 @@ export default function PolitiqueConfidentialite() {
           <section className="mb-10">
             <h2 className="text-2xl font-bold mb-4">6. Vos droits</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed mb-4">
-              Conformément au RGPD, vous disposez des droits suivants :
+              Vous disposez des droits suivants concernant vos données personnelles :
             </p>
             <ul className="list-disc pl-6 text-gray-600 dark:text-gray-300 space-y-2">
               <li><strong>Droit d'accès</strong> : obtenir une copie de vos données</li>
@@ -122,9 +122,9 @@ export default function PolitiqueConfidentialite() {
             <h2 className="text-2xl font-bold mb-4">10. Contact</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
               Pour toute question concernant cette politique ou vos données personnelles :<br /><br />
-              <strong>Digital Univers</strong><br />
-              Email : <a href="mailto:contact@digitalunivers.fr" className="text-[#0066FF] hover:underline">contact@digitalunivers.fr</a><br /><br />
-              Vous pouvez également introduire une réclamation auprès de la CNIL (Commission Nationale de l'Informatique et des Libertés) : <a href="https://www.cnil.fr" className="text-[#0066FF] hover:underline" target="_blank" rel="noopener noreferrer">www.cnil.fr</a>
+              <strong>Digital Univers LLC</strong><br />
+              10 Road 2136, Aztec, NM 87410, USA<br />
+              Email : <a href="mailto:contact@digitalunivers.fr" className="text-[#0066FF] hover:underline">contact@digitalunivers.fr</a>
             </p>
           </section>
         </div>

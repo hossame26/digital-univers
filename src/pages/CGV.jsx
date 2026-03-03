@@ -30,7 +30,7 @@ export default function CGV() {
           <section className="mb-10">
             <h2 className="text-2xl font-bold mb-4">Article 1 - Objet</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-              Les présentes Conditions Générales de Vente (CGV) régissent les relations contractuelles entre Digital Univers et ses clients pour la fourniture de services de création de sites web et de marketing digital.
+              Les présentes Conditions Générales de Vente (CGV) régissent les relations contractuelles entre Digital Univers LLC, société à responsabilité limitée enregistrée au New Mexico (EIN : 33-2469318), et ses clients pour la fourniture de services de création de sites web et de marketing digital.
             </p>
           </section>
 
@@ -51,7 +51,7 @@ export default function CGV() {
           <section className="mb-10">
             <h2 className="text-2xl font-bold mb-4">Article 3 - Tarifs</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-              Les tarifs sont établis sur devis personnalisé. Les prix indiqués sont en euros et s'entendent hors taxes pour les clients professionnels. Un acompte de 30% est demandé à la commande, le solde étant payable à la livraison du projet.
+              Les tarifs sont établis sur devis personnalisé. Les prix peuvent être indiqués en dollars américains (USD) ou en euros (EUR) selon le client. Un acompte de 30% est demandé à la commande, le solde étant payable à la livraison du projet.
             </p>
           </section>
 
@@ -123,14 +123,14 @@ export default function CGV() {
           <section className="mb-10">
             <h2 className="text-2xl font-bold mb-4">Article 10 - Force majeure</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-              Digital Univers ne saurait être tenu responsable de l'inexécution de ses obligations en cas de force majeure telle que définie par la jurisprudence française.
+              Digital Univers LLC ne saurait être tenue responsable de l'inexécution de ses obligations en cas de force majeure (catastrophe naturelle, panne majeure, pandémie, etc.).
             </p>
           </section>
 
           <section className="mb-10">
             <h2 className="text-2xl font-bold mb-4">Article 11 - Litiges</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-              Les présentes CGV sont soumises au droit français. En cas de litige, une solution amiable sera recherchée avant toute action judiciaire. À défaut, les tribunaux français seront seuls compétents.
+              Les présentes CGV sont soumises aux lois de l'État du New Mexico, États-Unis. En cas de litige, une solution amiable sera recherchée avant toute action judiciaire. À défaut, les tribunaux compétents de l'État du New Mexico seront seuls compétents.
             </p>
           </section>
 
@@ -138,7 +138,8 @@ export default function CGV() {
             <h2 className="text-2xl font-bold mb-4">Article 12 - Contact</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
               Pour toute question concernant ces CGV :<br /><br />
-              <strong>Digital Univers</strong><br />
+              <strong>Digital Univers LLC</strong><br />
+              10 Road 2136, Aztec, NM 87410, USA<br />
               Email : <a href="mailto:contact@digitalunivers.fr" className="text-[#0066FF] hover:underline">contact@digitalunivers.fr</a>
             </p>
           </section>

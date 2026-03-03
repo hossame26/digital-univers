@@ -31,9 +31,11 @@ export default function MentionsLegales() {
             <h2 className="text-2xl font-bold mb-4">1. Éditeur du site</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
               Le site <strong>digitalunivers.fr</strong> est édité par :<br /><br />
-              <strong>Digital Univers</strong><br />
-              Micro-entreprise<br />
-              France<br /><br />
+              <strong>Digital Univers LLC</strong><br />
+              Limited Liability Company - State of New Mexico, USA<br />
+              EIN : 33-2469318<br />
+              10 Road 2136, Aztec, NM 87410, United States<br />
+              Sole Member : Hossame-Eddine Laib<br /><br />
               Contact : <a href="mailto:contact@digitalunivers.fr" className="text-[#0066FF] hover:underline">contact@digitalunivers.fr</a>
             </p>
           </section>
@@ -73,7 +75,7 @@ export default function MentionsLegales() {
           <section className="mb-10">
             <h2 className="text-2xl font-bold mb-4">6. Droit applicable</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-              Les présentes mentions légales sont régies par le droit français. En cas de litige, les tribunaux français seront seuls compétents.
+              Les présentes mentions légales sont régies par les lois de l'État du New Mexico, États-Unis. En cas de litige, les tribunaux compétents de l'État du New Mexico seront seuls compétents.
             </p>
           </section>
 
