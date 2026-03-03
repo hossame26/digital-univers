@@ -63,7 +63,7 @@ function getWhyContent(service, city) {
     'creation-site-web': [
       `${city.name} est une ville dynamique de la région ${city.region} avec une population de ${city.population} habitants et plus de ${city.businesses} entreprises actives. Dans un marché aussi concurrentiel, disposer d'un site web professionnel n'est plus une option, c'est une nécessité absolue pour toute entreprise qui souhaite se démarquer.`,
       `Les consommateurs à ${city.name} recherchent de plus en plus leurs produits et services en ligne avant de se déplacer. Un site internet bien conçu et optimisé pour le référencement local vous permet de capter cette audience qualifiée et de transformer les visiteurs en clients. Que vous soyez un commerce de proximité, un artisan ou une PME, votre présence digitale est votre premier atout commercial.`,
-      `Chez Traffik Web, nous comprenons les spécificités du marché de ${city.name} et de la région ${city.region}. Nous créons des sites web sur mesure, rapides et optimisés pour le SEO local, afin que votre entreprise apparaisse en tête des résultats de recherche quand un habitant de ${city.name} cherche vos services.`,
+      `Chez Digital Univers, nous comprenons les spécificités du marché de ${city.name} et de la région ${city.region}. Nous créons des sites web sur mesure, rapides et optimisés pour le SEO local, afin que votre entreprise apparaisse en tête des résultats de recherche quand un habitant de ${city.name} cherche vos services.`,
     ],
     'creation-site-shopify': [
       `Le e-commerce connaît une croissance exponentielle à ${city.name} et dans toute la région ${city.region}. Avec ${city.population} habitants et plus de ${city.businesses} entreprises, le potentiel de vente en ligne est considérable. Shopify est la plateforme idéale pour lancer rapidement une boutique en ligne performante et professionnelle.`,
@@ -148,8 +148,8 @@ function getFAQs(service, city) {
       answer: `Nous livrons la plupart de nos projets de ${service.name.toLowerCase()} en 5 à 10 jours ouvrables. Nous travaillons à distance avec nos clients de ${city.name} et de toute la région ${city.region}, ce qui nous permet d'être réactifs et efficaces. Vous recevez des mises à jour régulières tout au long du projet.`,
     },
     {
-      question: `Pourquoi choisir Traffik Web pour votre ${service.keyword} à ${city.name} ?`,
-      answer: `Traffik Web est un freelance spécialisé basé en France. Nous connaissons les spécificités du marché de ${city.name} et de la région ${city.region}. Nos avantages : des tarifs compétitifs à partir de ${service.price}, une livraison rapide, un accompagnement personnalisé et une expertise technique reconnue. Plus de 50 projets livrés avec un taux de satisfaction de 100%.`,
+      question: `Pourquoi choisir Digital Univers pour votre ${service.keyword} à ${city.name} ?`,
+      answer: `Digital Univers est un freelance spécialisé basé en France. Nous connaissons les spécificités du marché de ${city.name} et de la région ${city.region}. Nos avantages : des tarifs compétitifs à partir de ${service.price}, une livraison rapide, un accompagnement personnalisé et une expertise technique reconnue. Plus de 50 projets livrés avec un taux de satisfaction de 100%.`,
     },
   ];
 }
@@ -203,9 +203,9 @@ export default function CityService() {
     const localBusinessSchema = {
       '@context': 'https://schema.org',
       '@type': 'LocalBusiness',
-      name: 'Traffik Web',
+      name: 'Digital Univers',
       description: `${service.name} à ${city.name} - Freelance web en France`,
-      url: `https://traffik-web.fr/${service.slug}-${city.slug}`,
+      url: `https://digitalunivers.fr/${service.slug}-${city.slug}`,
       telephone: '+33635505374',
       areaServed: {
         '@type': 'City',
@@ -234,19 +234,19 @@ export default function CityService() {
           '@type': 'ListItem',
           position: 1,
           name: 'Accueil',
-          item: 'https://traffik-web.fr/',
+          item: 'https://digitalunivers.fr/',
         },
         {
           '@type': 'ListItem',
           position: 2,
           name: service.name,
-          item: `https://traffik-web.fr${service.parentPath}`,
+          item: `https://digitalunivers.fr${service.parentPath}`,
         },
         {
           '@type': 'ListItem',
           position: 3,
           name: city.name,
-          item: `https://traffik-web.fr/${service.slug}-${city.slug}`,
+          item: `https://digitalunivers.fr/${service.slug}-${city.slug}`,
         },
       ],
     };
@@ -285,9 +285,9 @@ export default function CityService() {
   const includes = getIncludes(service);
   const faqs = getFAQs(service, city);
 
-  const pageTitle = `${service.name} à ${city.name} | Traffik Web`;
+  const pageTitle = `${service.name} à ${city.name} | Digital Univers`;
   const pageDescription = `${service.name} à ${city.name} dès ${service.price}. Freelance web : livraison rapide, tarifs compétitifs. Devis gratuit 24h.`;
-  const canonical = `https://traffik-web.fr/${service.slug}-${city.slug}`;
+  const canonical = `https://digitalunivers.fr/${service.slug}-${city.slug}`;
   const keywords = `${service.keyword} ${city.name}, ${service.keyword} ${city.region}, ${service.name.toLowerCase()} ${city.name}, agence web ${city.name}, freelance web ${city.name}, site internet ${city.name}`;
 
   return (

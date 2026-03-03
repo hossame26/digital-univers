@@ -44,7 +44,7 @@ const testimonials = [
   {
     name: "Marie D.",
     role: "Fondatrice, Boutique Mode",
-    content: "Traffik Web a transformé notre présence en ligne. Notre site Shopify génère maintenant 3x plus de ventes qu'avant. L'équipe est réactive et professionnelle.",
+    content: "Digital Univers a transformé notre présence en ligne. Notre site Shopify génère maintenant 3x plus de ventes qu'avant. L'équipe est réactive et professionnelle.",
     rating: 5,
   },
   {

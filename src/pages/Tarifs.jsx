@@ -306,9 +306,9 @@ export default function Tarifs() {
   return (
     <div className="min-h-screen bg-white dark:bg-[#050505] transition-colors pt-28 pb-20">
       <SEOHead
-        title="Tarifs Création Site Web | Prix Transparents | Traffik Web"
+        title="Tarifs Création Site Web | Prix Transparents | Digital Univers"
         description="Tarifs création site web : WordPress dès 600€, Shopify sur devis, React dès 600€. Freelance en France. Devis gratuit 24h."
-        canonical="https://traffik-web.fr/tarifs"
+        canonical="https://digitalunivers.fr/tarifs"
         keywords="tarif création site web, prix site internet, devis site web, prix site vitrine, tarif boutique en ligne, cout site web freelance"
       />
 

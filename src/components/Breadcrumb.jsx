@@ -10,7 +10,7 @@ export default function Breadcrumb({ items }) {
         '@type': 'ListItem',
         position: index + 1,
         name: item.label,
-        item: `https://traffik-web.fr${item.href}`,
+        item: `https://digitalunivers.fr${item.href}`,
       })),
     };
 

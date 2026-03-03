@@ -73,7 +73,7 @@ const reactFaqs = [
 function LiveTerminal() {
   const [lines, setLines] = useState([]);
   const fullCode = [
-    { text: '$ npx create-next-app traffik', color: 'text-green-400', delay: 0 },
+    { text: '$ npx create-next-app digital-univers', color: 'text-green-400', delay: 0 },
     { text: '', color: '', delay: 800 },
     { text: 'Creating a new Next.js app...', color: 'text-white/50', delay: 1200 },
     { text: '', color: '', delay: 1600 },
@@ -83,7 +83,7 @@ function LiveTerminal() {
     { text: 'Success! Your project is ready.', color: 'text-emerald-400', delay: 4000 },
     { text: '> Performance score: 100/100', color: 'text-[#0066FF]', delay: 4800 },
     { text: '> SEO: Fully optimized', color: 'text-[#0066FF]', delay: 5400 },
-    { text: '> Deploy: traffik-web.fr', color: 'text-[#A855F7]', delay: 6000 },
+    { text: '> Deploy: digitalunivers.fr', color: 'text-[#A855F7]', delay: 6000 },
   ];
 
   useEffect(() => {
@@ -340,9 +340,9 @@ export default function ReactDev() {
   return (
     <div className="min-h-screen bg-white dark:bg-[#050505] text-gray-900 dark:text-white transition-colors relative overflow-hidden">
       <SEOHead
-        title="Développement React & Next.js | Sur Mesure | Traffik Web"
+        title="Développement React & Next.js | Sur Mesure | Digital Univers"
         description="Développeur React & Next.js freelance en France. Applications web sur mesure, performantes et SEO. À partir de 600€. Devis gratuit."
-        canonical="https://traffik-web.fr/developpement-react-nextjs"
+        canonical="https://digitalunivers.fr/developpement-react-nextjs"
         keywords="développement react, next.js, application web sur mesure, site react, développeur react freelance france"
       />
 

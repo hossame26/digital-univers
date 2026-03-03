@@ -100,7 +100,7 @@ export default function Footer() {
                   className="text-2xl font-bold tracking-[0.05em] text-black dark:text-white"
                   whileHover={{ scale: 1.02 }}
                 >
-                  TRAFFIK
+                  DIGITAL UNIVERS
                   <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-accent-purple animate-gradient bg-[length:200%_200%]">
                     .
                   </span>
@@ -179,7 +179,7 @@ export default function Footer() {
             viewport={{ once: true }}
             className="text-xs text-gray-400 dark:text-gray-500"
           >
-            © {currentYear} Traffik Web. Tous droits réservés.
+            © {currentYear} Digital Univers. Tous droits réservés.
           </motion.div>
         </div>
       </div>

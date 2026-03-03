@@ -162,9 +162,9 @@ export default function Portfolio() {
   return (
     <div className="min-h-screen bg-white dark:bg-[#050505] text-black dark:text-white">
       <SEOHead
-        title="Portfolio & Réalisations | Projets Web & E-commerce | Traffik Web"
+        title="Portfolio & Réalisations | Projets Web & E-commerce | Digital Univers"
         description="Découvrez nos réalisations web : sites e-commerce Shopify, sites vitrine WordPress, applications React. Des projets concrets avec des résultats mesurables pour nos clients en France."
-        canonical="https://traffik-web.fr/portfolio"
+        canonical="https://digitalunivers.fr/portfolio"
         keywords="portfolio web, réalisations sites web, projets e-commerce, freelance web france, création site shopify, développement wordpress, application react, agence web portfolio"
       />
 

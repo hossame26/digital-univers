@@ -161,7 +161,7 @@ function ReactPreview() {
     { text: 'Installing dependencies...', color: 'text-white/40' },
     { text: '> react, tailwind, framer', color: 'text-blue-400' },
     { text: 'Performance: 100/100', color: 'text-[#0066FF]' },
-    { text: 'Deploy: traffik-web.fr', color: 'text-[#A855F7]' },
+    { text: 'Deploy: digitalunivers.fr', color: 'text-[#A855F7]' },
   ];
 
   return (

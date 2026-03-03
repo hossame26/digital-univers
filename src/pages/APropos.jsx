@@ -128,9 +128,9 @@ const timeline = [
   },
   {
     year: '2024',
-    title: 'Traffik Web',
+    title: 'Digital Univers',
     description:
-      'Création de Traffik Web. Une offre complète et transparente pour les entrepreneurs et PME. L\'objectif : démocratiser l\'accès à un web de qualité professionnelle.',
+      'Création de Digital Univers. Une offre complète et transparente pour les entrepreneurs et PME. L\'objectif : démocratiser l\'accès à un web de qualité professionnelle.',
   },
 ];
 
@@ -138,10 +138,10 @@ export default function APropos() {
   return (
     <div className="min-h-screen bg-white dark:bg-[#050505] text-black dark:text-white">
       <SEOHead
-        title="À Propos | Freelance Web & Marketing | Traffik Web"
-        description="Freelance web derrière Traffik Web. Spécialisé React, Shopify, WordPress, SEO et publicité digitale. +50 projets livrés, ROI moyen 350%."
-        canonical="https://traffik-web.fr/a-propos"
-        keywords="freelance web, developpeur freelance france, agence web, a propos traffik web, creation site internet freelance, developpeur react freelance, marketing digital freelance, seo freelance, shopify expert france"
+        title="À Propos | Freelance Web & Marketing | Digital Univers"
+        description="Freelance web derrière Digital Univers. Spécialisé React, Shopify, WordPress, SEO et publicité digitale. +50 projets livrés, ROI moyen 350%."
+        canonical="https://digitalunivers.fr/a-propos"
+        keywords="freelance web, developpeur freelance france, agence web, a propos digital-univers web, creation site internet freelance, developpeur react freelance, marketing digital freelance, seo freelance, shopify expert france"
       />
 
       <div className="max-w-4xl mx-auto py-20 px-4">
@@ -190,7 +190,7 @@ export default function APropos() {
             </p>
             <p>
               Aujourd'hui, après plusieurs années d'expérience et plus de 50 projets livrés, j'ai créé
-              <strong> Traffik Web</strong> avec une mission claire : offrir aux entrepreneurs, aux PME
+              <strong> Digital Univers</strong> avec une mission claire : offrir aux entrepreneurs, aux PME
               et aux créateurs un accès à des services web de qualité professionnelle, sans les tarifs
               prohibitifs des grandes agences. Je crois que chaque entreprise mérite un site web
               performant et une stratégie digitale efficace, quel que soit son budget.
@@ -206,7 +206,7 @@ export default function APropos() {
               Mon objectif n'est pas d'avoir le plus grand nombre de clients possible. C'est d'avoir
               des clients satisfaits, des projets dont je suis fier, et des résultats qui parlent
               d'eux-mêmes. La qualité plutôt que la quantité. La relation humaine plutôt que le simple
-              échange commercial. C'est ça, l'esprit Traffik Web.
+              échange commercial. C'est ça, l'esprit Digital Univers.
             </p>
           </div>
         </motion.section>

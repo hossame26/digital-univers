@@ -244,7 +244,7 @@ function MobileHero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-5xl font-black tracking-[-0.05em] text-gray-900 dark:text-white mb-4"
         >
-          Traffik
+          Digital Univers
         </motion.h1>
 
         <motion.p
@@ -373,7 +373,7 @@ function DesktopHero() {
               transition={{ duration: 1.4, delay: 0.5, ease: [0.25, 0.1, 0.25, 1] }}
               className="text-5xl sm:text-6xl md:text-7xl lg:text-[5.5rem] font-black tracking-[-0.05em] text-gray-900 dark:text-white mb-5"
             >
-              Traffik
+              Digital Univers
               <span className="sr-only"> — Création de Sites Web & Marketing Digital</span>
             </motion.h1>
 
@@ -436,7 +436,7 @@ function DesktopHero() {
           <div className="text-center">
             <p className="text-lg sm:text-xl md:text-2xl text-gray-500 dark:text-gray-400 font-medium mb-3 tracking-wide">Nous sommes</p>
             <h2 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-black tracking-[-0.05em] text-transparent bg-clip-text bg-gradient-to-r from-[#0066FF] via-[#6C5CE7] to-[#A855F7]">
-              Traffik
+              Digital Univers
             </h2>
           </div>
         </motion.div>

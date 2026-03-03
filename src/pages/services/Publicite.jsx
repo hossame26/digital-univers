@@ -118,8 +118,8 @@ function MetaAdsPreview() {
 
 function GoogleAdsPreview() {
   const results = [
-    { label: 'Ad · traffik-web.fr', title: 'Création Site Web', pos: 1 },
-    { label: 'Ad · traffik-web.fr', title: 'Agence Marketing', pos: 2 },
+    { label: 'Ad · digitalunivers.fr', title: 'Création Site Web', pos: 1 },
+    { label: 'Ad · digitalunivers.fr', title: 'Agence Marketing', pos: 2 },
     { label: 'organic', title: 'Résultat naturel', pos: 3 },
   ];
   return (
@@ -288,9 +288,9 @@ export default function Publicite() {
   return (
     <div className="min-h-screen bg-white dark:bg-[#050505] text-black dark:text-white">
       <SEOHead
-        title="Publicité Facebook Ads & Google Ads | Traffik Web"
+        title="Publicité Facebook Ads & Google Ads | Digital Univers"
         description="Agence experte en publicité Facebook Ads, Google Ads, TikTok et Snapchat Ads. Campagnes rentables avec ROI garanti, dès 300€/mois. Devis gratuit en 24h."
-        canonical="https://traffik-web.fr/publicite-digitale"
+        canonical="https://digitalunivers.fr/publicite-digitale"
         keywords="publicite facebook ads, google ads, publicite digitale, gestion publicite en ligne, agence facebook ads france, campagne publicitaire en ligne, publicite instagram, tiktok ads, snapchat ads, pinterest ads, linkedin ads, cout publicite facebook, retour sur investissement publicite, agence publicite digitale"
       />
 

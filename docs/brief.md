@@ -1,7 +1,7 @@
 # Project Brief — Sprint Clarté & Messaging
 
 ## Type de projet
-**Brownfield** — Amélioration site existant (traffik-web.fr)
+**Brownfield** — Amélioration site existant (digitalunivers.fr)
 
 ## Contexte
 Audit externe d'un utilisateur réel. Le design, la perf et l'UX globale sont validés (note visuelle : "100/10"). Les problèmes identifiés sont **tous liés à la clarté du message et des offres**.
@@ -15,7 +15,7 @@ Retour audit ami de Heuss (2026-02-21)
 
 ### P1 — Hero : Manque de clarté au premier coup d'oeil
 **Gravité : Haute**
-- On ne comprend pas immédiatement ce que Traffik fait
+- On ne comprend pas immédiatement ce que Digital Univers fait
 - "Sites web qui génèrent du chiffre d'affaires. Pas juste des pixels." → trop abstrait
 - Pas de mention de la cible (PME, indépendants, artisans, etc.)
 - Le badge "Agence Web & Marketing" est trop générique
@@ -82,7 +82,7 @@ Retour audit ami de Heuss (2026-02-21)
 ---
 
 ## Métriques de succès
-- Un nouveau visiteur comprend en < 5 secondes ce que Traffik fait et pour qui
+- Un nouveau visiteur comprend en < 5 secondes ce que Digital Univers fait et pour qui
 - Chaque offre est auto-explicative sans avoir besoin de contacter
 - Les badges sont justifiés de manière crédible
 - Zéro question type "ça inclut quoi exactement ?"

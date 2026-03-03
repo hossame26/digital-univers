@@ -312,9 +312,9 @@ export default function AuditSite() {
       </AnimatePresence>
 
       <SEOHead
-        title="Audit de Site Web Complet | SEO, Performance, Sécurité | Traffik Web"
+        title="Audit de Site Web Complet | SEO, Performance, Sécurité | Digital Univers"
         description="Audit professionnel de votre site web : SEO, performance, sécurité et UX. Rapport détaillé en 24h avec plan d'action concret. À partir de 500 euros. Identifiez ce qui freine votre croissance."
-        canonical="https://traffik-web.fr/audit-site-web"
+        canonical="https://digitalunivers.fr/audit-site-web"
         keywords="audit site web, audit seo, audit performance site, audit securite site web, analyse site web, test site web, audit ux, core web vitals, audit technique, audit site internet"
       />
 

@@ -52,7 +52,7 @@ export default function BlogArticle() {
       <SEOHead
         title={article.metaTitle || article.title}
         description={article.metaDescription || article.excerpt}
-        canonical={`https://traffik-web.fr/blog/${article.slug}`}
+        canonical={`https://digitalunivers.fr/blog/${article.slug}`}
         keywords={article.keywords?.join(', ')}
       />
 
@@ -70,11 +70,11 @@ export default function BlogArticle() {
             author: { '@type': 'Person', name: article.author },
             publisher: {
               '@type': 'Organization',
-              name: 'Traffik Web',
-              url: 'https://traffik-web.fr',
-              logo: { '@type': 'ImageObject', url: 'https://traffik-web.fr/favicon.png' },
+              name: 'Digital Univers',
+              url: 'https://digitalunivers.fr',
+              logo: { '@type': 'ImageObject', url: 'https://digitalunivers.fr/favicon.png' },
             },
-            mainEntityOfPage: `https://traffik-web.fr/blog/${article.slug}`,
+            mainEntityOfPage: `https://digitalunivers.fr/blog/${article.slug}`,
             wordCount: article.content ? article.content.replace(/<[^>]+>/g, '').split(/\s+/).length : undefined,
             keywords: article.keywords?.join(', '),
           }),

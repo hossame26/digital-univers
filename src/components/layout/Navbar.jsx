@@ -172,7 +172,7 @@ export default function Navbar() {
               font-bold tracking-[0.1em] text-black dark:text-white transition-all duration-300
               ${isScrolled ? 'text-lg md:text-xl' : 'text-xl md:text-2xl'}
             `}>
-              TRAFFIK
+              DIGITAL UNIVERS
             </span>
             <motion.div
               className="absolute -bottom-1 left-0 right-0 h-0.5 bg-gradient-to-r from-primary to-accent-purple rounded-full origin-left"

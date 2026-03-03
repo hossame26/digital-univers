@@ -234,9 +234,9 @@ export default function SEO() {
   return (
     <div className="min-h-screen bg-white dark:bg-[#050505] text-black dark:text-white">
       <SEOHead
-        title="Référencement SEO | Première Page Google | Traffik Web"
+        title="Référencement SEO | Première Page Google | Digital Univers"
         description="Expert SEO en France. Audit, optimisation on-page, netlinking, SEO local. Boostez votre visibilité Google. Audit dès 500€."
-        canonical="https://traffik-web.fr/referencement-seo"
+        canonical="https://digitalunivers.fr/referencement-seo"
         keywords="referencement seo, referencement naturel, seo france, audit seo, premiere page google, optimisation seo, seo local, netlinking, consultant seo, agence seo france, referencement google, strategie seo"
       />
 

@@ -167,9 +167,9 @@ export default function WordPress() {
   return (
     <div className="min-h-screen bg-white dark:bg-[#050505] transition-colors pt-28 pb-20">
       <SEOHead
-        title="Création Site WordPress | Dès 600€ | Traffik Web"
+        title="Création Site WordPress | Dès 600€ | Digital Univers"
         description="Création de site WordPress professionnel à partir de 600€. Site vitrine, blog, e-commerce WooCommerce. Freelance WordPress en France, livré en 5 jours."
-        canonical="https://traffik-web.fr/creation-site-wordpress"
+        canonical="https://digitalunivers.fr/creation-site-wordpress"
         keywords="création site wordpress, site vitrine wordpress, wordpress freelance france, prix site wordpress, site wordpress professionnel"
       />
 

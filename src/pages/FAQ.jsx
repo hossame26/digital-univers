@@ -81,10 +81,10 @@ export default function FAQPage() {
   return (
     <div className="min-h-screen bg-white dark:bg-[#050505] transition-colors pt-28 pb-20">
       <SEOHead
-        title="FAQ | Questions Fréquentes | Traffik Web"
-        description="Retrouvez les réponses à toutes vos questions sur nos services de création de sites web, SEO, publicité digitale et audit. Traffik Web, freelance en France."
-        canonical="https://traffik-web.fr/faq"
-        keywords="faq traffik web, questions fréquentes création site, prix site web, délai site web"
+        title="FAQ | Questions Fréquentes | Digital Univers"
+        description="Retrouvez les réponses à toutes vos questions sur nos services de création de sites web, SEO, publicité digitale et audit. Digital Univers, freelance en France."
+        canonical="https://digitalunivers.fr/faq"
+        keywords="faq digital-univers web, questions fréquentes création site, prix site web, délai site web"
       />
 
       <div className="max-w-3xl mx-auto px-4 sm:px-6">

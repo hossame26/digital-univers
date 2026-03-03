@@ -31,9 +31,9 @@ export default function BlogList() {
   return (
     <div className="min-h-screen bg-white dark:bg-[#050505] py-20 px-4">
       <SEOHead
-        title="Blog Création Site Web & Marketing Digital | Traffik Web"
-        description="Conseils, guides et actualités sur la création de sites web, le SEO, Shopify, WordPress et la publicité digitale. Articles experts par Traffik Web."
-        canonical="https://traffik-web.fr/blog"
+        title="Blog Création Site Web & Marketing Digital | Digital Univers"
+        description="Conseils, guides et actualités sur la création de sites web, le SEO, Shopify, WordPress et la publicité digitale. Articles experts par Digital Univers."
+        canonical="https://digitalunivers.fr/blog"
         keywords="blog web, création site web, seo, shopify, wordpress, marketing digital"
       />
 

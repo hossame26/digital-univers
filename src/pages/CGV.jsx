@@ -7,10 +7,10 @@ export default function CGV() {
   return (
     <div className="min-h-screen bg-white dark:bg-[#050505] text-black dark:text-white py-20 px-4">
       <SEOHead
-        title="CGV | Conditions Générales de Vente | Traffik Web"
-        description="Conditions générales de vente de Traffik Web : tarifs, délais, garanties, propriété intellectuelle et processus de validation pour nos services web."
-        canonical="https://traffik-web.fr/cgv"
-        keywords="cgv traffik web, conditions générales vente, agence web cgv"
+        title="CGV | Conditions Générales de Vente | Digital Univers"
+        description="Conditions générales de vente de Digital Univers : tarifs, délais, garanties, propriété intellectuelle et processus de validation pour nos services web."
+        canonical="https://digitalunivers.fr/cgv"
+        keywords="cgv digital-univers web, conditions générales vente, agence web cgv"
       />
       <div className="max-w-3xl mx-auto">
         <Link
@@ -30,14 +30,14 @@ export default function CGV() {
           <section className="mb-10">
             <h2 className="text-2xl font-bold mb-4">Article 1 - Objet</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-              Les présentes Conditions Générales de Vente (CGV) régissent les relations contractuelles entre Traffik Web et ses clients pour la fourniture de services de création de sites web et de marketing digital.
+              Les présentes Conditions Générales de Vente (CGV) régissent les relations contractuelles entre Digital Univers et ses clients pour la fourniture de services de création de sites web et de marketing digital.
             </p>
           </section>
 
           <section className="mb-10">
             <h2 className="text-2xl font-bold mb-4">Article 2 - Services proposés</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed mb-4">
-              Traffik Web propose les services suivants :
+              Digital Univers propose les services suivants :
             </p>
             <ul className="list-disc pl-6 text-gray-600 dark:text-gray-300 space-y-2">
               <li>Création de sites web (Shopify, WordPress, sur mesure)</li>
@@ -81,7 +81,7 @@ export default function CGV() {
           <section className="mb-10">
             <h2 className="text-2xl font-bold mb-4">Article 6 - Garantie et support</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-              Traffik Web offre une garantie de 30 jours après la livraison incluant :
+              Digital Univers offre une garantie de 30 jours après la livraison incluant :
             </p>
             <ul className="list-disc pl-6 text-gray-600 dark:text-gray-300 space-y-2 mt-4">
               <li>Corrections des bugs et dysfonctionnements</li>
@@ -96,7 +96,7 @@ export default function CGV() {
           <section className="mb-10">
             <h2 className="text-2xl font-bold mb-4">Article 7 - Propriété intellectuelle</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-              Après paiement intégral, le client devient propriétaire du site web livré. Les codes sources sont transmis au client. Traffik Web se réserve le droit de mentionner la réalisation du projet dans son portfolio, sauf demande contraire du client.
+              Après paiement intégral, le client devient propriétaire du site web livré. Les codes sources sont transmis au client. Digital Univers se réserve le droit de mentionner la réalisation du projet dans son portfolio, sauf demande contraire du client.
             </p>
           </section>
 
@@ -116,14 +116,14 @@ export default function CGV() {
           <section className="mb-10">
             <h2 className="text-2xl font-bold mb-4">Article 9 - Annulation et remboursement</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-              En cas d'annulation par le client avant le début des travaux, l'acompte reste acquis à Traffik Web au titre de dédommagement. Si les travaux ont commencé, les prestations réalisées seront facturées au prorata.
+              En cas d'annulation par le client avant le début des travaux, l'acompte reste acquis à Digital Univers au titre de dédommagement. Si les travaux ont commencé, les prestations réalisées seront facturées au prorata.
             </p>
           </section>
 
           <section className="mb-10">
             <h2 className="text-2xl font-bold mb-4">Article 10 - Force majeure</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-              Traffik Web ne saurait être tenu responsable de l'inexécution de ses obligations en cas de force majeure telle que définie par la jurisprudence française.
+              Digital Univers ne saurait être tenu responsable de l'inexécution de ses obligations en cas de force majeure telle que définie par la jurisprudence française.
             </p>
           </section>
 
@@ -138,8 +138,8 @@ export default function CGV() {
             <h2 className="text-2xl font-bold mb-4">Article 12 - Contact</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
               Pour toute question concernant ces CGV :<br /><br />
-              <strong>Traffik Web</strong><br />
-              Email : <a href="mailto:contact@traffik-web.fr" className="text-[#0066FF] hover:underline">contact@traffik-web.fr</a>
+              <strong>Digital Univers</strong><br />
+              Email : <a href="mailto:contact@digitalunivers.fr" className="text-[#0066FF] hover:underline">contact@digitalunivers.fr</a>
             </p>
           </section>
         </div>

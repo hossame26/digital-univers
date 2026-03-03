@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 
-const DEFAULT_OG_IMAGE = 'https://traffik-web.fr/og-image.jpg';
+const DEFAULT_OG_IMAGE = 'https://digitalunivers.fr/og-image.jpg';
 
 export default function SEOHead({ title, description, canonical, keywords, ogImage, ogType = 'website' }) {
   useEffect(() => {
@@ -29,7 +29,7 @@ export default function SEOHead({ title, description, canonical, keywords, ogIma
     setMeta('og:type', ogType);
     setMeta('og:image', ogImage || DEFAULT_OG_IMAGE);
     setMeta('og:locale', 'fr_FR');
-    setMeta('og:site_name', 'Traffik Web');
+    setMeta('og:site_name', 'Digital Univers');
     if (canonical) {
       setMeta('og:url', canonical);
       let link = document.querySelector('link[rel="canonical"]');

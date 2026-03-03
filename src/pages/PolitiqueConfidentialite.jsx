@@ -7,10 +7,10 @@ export default function PolitiqueConfidentialite() {
   return (
     <div className="min-h-screen bg-white dark:bg-[#050505] text-black dark:text-white py-20 px-4">
       <SEOHead
-        title="Politique de Confidentialité | Traffik Web"
-        description="Politique de confidentialité de Traffik Web : données collectées, cookies, droits RGPD et protection de vos informations personnelles."
-        canonical="https://traffik-web.fr/politique-confidentialite"
-        keywords="politique confidentialité, rgpd, données personnelles, cookies traffik web"
+        title="Politique de Confidentialité | Digital Univers"
+        description="Politique de confidentialité de Digital Univers : données collectées, cookies, droits RGPD et protection de vos informations personnelles."
+        canonical="https://digitalunivers.fr/politique-confidentialite"
+        keywords="politique confidentialité, rgpd, données personnelles, cookies digital-univers web"
       />
       <div className="max-w-3xl mx-auto">
         <Link
@@ -30,7 +30,7 @@ export default function PolitiqueConfidentialite() {
           <section className="mb-10">
             <h2 className="text-2xl font-bold mb-4">1. Introduction</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-              Chez Traffik Web, nous accordons une grande importance à la protection de vos données personnelles. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations conformément au Règlement Général sur la Protection des Données (RGPD).
+              Chez Digital Univers, nous accordons une grande importance à la protection de vos données personnelles. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations conformément au Règlement Général sur la Protection des Données (RGPD).
             </p>
           </section>
 
@@ -93,7 +93,7 @@ export default function PolitiqueConfidentialite() {
               <li><strong>Droit d'opposition</strong> : vous opposer au traitement de vos données</li>
             </ul>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed mt-4">
-              Pour exercer ces droits, contactez-nous par email : <a href="mailto:contact@traffik-web.fr" className="text-[#0066FF] hover:underline">contact@traffik-web.fr</a>.
+              Pour exercer ces droits, contactez-nous par email : <a href="mailto:contact@digitalunivers.fr" className="text-[#0066FF] hover:underline">contact@digitalunivers.fr</a>.
             </p>
           </section>
 
@@ -122,8 +122,8 @@ export default function PolitiqueConfidentialite() {
             <h2 className="text-2xl font-bold mb-4">10. Contact</h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
               Pour toute question concernant cette politique ou vos données personnelles :<br /><br />
-              <strong>Traffik Web</strong><br />
-              Email : <a href="mailto:contact@traffik-web.fr" className="text-[#0066FF] hover:underline">contact@traffik-web.fr</a><br /><br />
+              <strong>Digital Univers</strong><br />
+              Email : <a href="mailto:contact@digitalunivers.fr" className="text-[#0066FF] hover:underline">contact@digitalunivers.fr</a><br /><br />
               Vous pouvez également introduire une réclamation auprès de la CNIL (Commission Nationale de l'Informatique et des Libertés) : <a href="https://www.cnil.fr" className="text-[#0066FF] hover:underline" target="_blank" rel="noopener noreferrer">www.cnil.fr</a>
             </p>
           </section>
